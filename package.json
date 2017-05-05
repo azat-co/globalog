@@ -1,0 +1,29 @@
+{
+  "name": "globalog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azat-co/globalog.git"
+  },
+  "keywords": [
+    "color logs",
+    "global logs",
+    "color",
+    "console log",
+    "console.log",
+    "global log"
+  ],
+  "author": "Azat Mardan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azat-co/globalog/issues"
+  },
+  "homepage": "https://github.com/azat-co/globalog#readme",
+  "devDependencies": {
+  }
+}
